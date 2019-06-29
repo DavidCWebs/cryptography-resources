@@ -15,5 +15,5 @@ Applied Cryptography Reading List
 [3]: https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/
 [4]: https://moxie.org/blog/the-cryptographic-doom-principle/
 [5]: https://www.imperialviolet.org/posts-index.html
-[6]:
+[6]: https://www.zx2c4.com/
 [7]: https://github.com/torvalds/linux/blob/master/drivers/char/random.c
