@@ -1,6 +1,3 @@
----
-title: Entropy
----
 Entropy
 =======
 The amount of information in a message is measured by the **entropy** of the message.
@@ -8,6 +5,7 @@ The amount of information in a message is measured by the **entropy** of the mes
 The amount of information in a message is the minimum number of bits required to represent the message.
 
 The entropy of a message indicating whether to proceed or not can be represented by a single bit, since by definition a bit has one of two states:
+
 | Proceed? | Minimum Representation in bits |
 | - | - |
 | No  | 0 |
@@ -15,6 +13,7 @@ The entropy of a message indicating whether to proceed or not can be represented
 
 
 The days of the week can be represented by slightly less than 3 bits:
+
 | Day of week | Minimum representation in bits |
 | - | - |
 | Sunday      | 000 |
@@ -34,13 +33,14 @@ Because a binary system represents data in discrete bits, the number of bits req
 
 In a base 2 system, this generalises to 2<sup>n</sup> where n is the minimum number of digits required to represent all possible states.
 
-::: tip Minimum Representation in Bits
+Mnimum Representation in Bits
+-----------------------------
 The minimum power of 2 that is greater than or equal to the number of states.
 
 Where the number of states is n,
-
+```
 log<sub>2</sub> n
-:::
+```
 
 The binary logarithm (log<sub>2</sub> n) is the power to which the number 2 must be raised to obtain the value n. For any real number x:
 
