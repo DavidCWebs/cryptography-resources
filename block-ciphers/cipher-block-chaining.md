@@ -17,3 +17,9 @@ cᵢ = Eₖ(mᵢ xor cᵢ₋₁)
 For the first block, an Initialization Vector(IV) is required - it is xored with the first block. IV doesn't need to be secret, as it will be encrypted, but better not to reuse. You can't get the first block with the IV and ciphertext alone, since the ciphertext has been encrypted with a key.
 
 If the IV is missing, the entire ciphertext can be decrypted except for the first block.
+
+References
+----------
+* [CBC Mode, Crypto++ Wiki][1]
+
+[1]: https://cryptopp.com/wiki/CBC_Mode

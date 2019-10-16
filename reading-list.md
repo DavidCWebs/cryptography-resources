@@ -8,6 +8,8 @@ Applied Cryptography Reading List
 * [Adam Langley's Blog][5]
 * [zx2c4][6]: Jason Donenfeld projects (dev from kernel RNG) - interesting applied crypto 
 * [linux/drivers/char/random.c, Linux kernel][7]
+* [Lecture notes on Public Key Cryptography][8], Steven Gordon
+* [Security Engineering, 3rd edition][9], Ross Anderson
 
 
 [1]: https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/
@@ -17,3 +19,5 @@ Applied Cryptography Reading List
 [5]: https://www.imperialviolet.org/posts-index.html
 [6]: https://www.zx2c4.com/
 [7]: https://github.com/torvalds/linux/blob/master/drivers/char/random.c
+[8]: https://sandilands.info/sgordon/teaching/css441y15s2/handouts/css441y15s2l07-public-key-cryptography.pdf
+[9]: https://www.cl.cam.ac.uk/~rja14/book.html

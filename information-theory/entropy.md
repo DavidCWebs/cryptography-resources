@@ -78,7 +78,7 @@ For storage of raw data, not the information content of the data:
 * 2 bits: 4 different values
 * 3 bits: 8 different values
 * 4 bits: 16 different values
-* 8 bits: 32 different values
+* 8 bits: 256 different values
 
 Practical Uses
 --------------

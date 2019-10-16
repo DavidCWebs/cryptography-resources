@@ -13,8 +13,18 @@ Modes of Operation
 * Cipher Feedback Mode (CFB)
 * Counter Mode (CTR)
 
+Initialization Vector
+---------------------
+Most modes of encryption require a unique binary sequence called an Initialization Vector (IV). The IV must be non-repeating and for some modes it needs to be random.
+
+The IV ensures that unique ciphertexts are produced even when the same plaintext is encrypted multiple times with the same key.
+
+The property whereby repeated use of the scheme with the same key does not allow an attacker to feasibly/practically infer relationships between segments of the message is known as **semantic security**.
+
 References
 ----------
 * [Wikipedia][1]
+* [Initializaton Vector][2]
 
 [1]: https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation 
+[2]: https://en.wikipedia.org/wiki/Initialization_vector
