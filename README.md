@@ -28,11 +28,13 @@ Number Theory Resources
 
 Videos
 ------
-[Paper & pencil method of RSA Algorithm][16]
+* [Paper & pencil method of RSA Algorithm][16]
 
-Book List
----------
+Book/Papers List
+----------------
 * [Internet Communications & Security Resources, Steven Gordon][15] - includes book list with links.
+* [Articles by Ross Anderson][17] (lots of great stuff!)
+
 
 [1]: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/TableofContents.pdf
 [2]: http://www-math.ucdenver.edu/~wcherowi/courses/m5410/exeucalg.html
@@ -50,3 +52,4 @@ Book List
 [14]: https://sandilands.info/sgordon/teaching/css441y15s2/topic-number_theory
 [15]: https://sandilands.info/sgordon/teaching/resources/study
 [16]: https://www.youtube.com/watch?v=kYasb426Yjk
+[17]: https://www.cl.cam.ac.uk/~rja14/

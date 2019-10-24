@@ -1,6 +1,8 @@
-Applied Cryptography Reading List
-=================================
+Applied Cryptography Reading/Watching List
+==========================================
+This is a to do list of articles, books & videos.
 
+* [Paper & pencil RSA walkthrough][10]
 * [Applied Practical Cryptography][1]: Review of the book by Bruce Schneier (lots of applied crypto advice)
 * [Twenty Years of Attacks on the RSA Cryptosystem][2]: Dan Boneh
 * [Problems With Javascript crypto][3] from 2011 - may be dated
@@ -21,3 +23,4 @@ Applied Cryptography Reading List
 [7]: https://github.com/torvalds/linux/blob/master/drivers/char/random.c
 [8]: https://sandilands.info/sgordon/teaching/css441y15s2/handouts/css441y15s2l07-public-key-cryptography.pdf
 [9]: https://www.cl.cam.ac.uk/~rja14/book.html
+[10]: https://www.youtube.com/watch?v=kYasb426Yjk
