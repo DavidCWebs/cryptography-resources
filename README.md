@@ -26,6 +26,10 @@ Number Theory Resources
 * [Security Engineering][10] - Ross Anderson, Free textbook
 * [Number Theory notes][14] - Steven Gordon
 
+Videos
+------
+[Paper & pencil method of RSA Algorithm][16]
+
 Book List
 ---------
 * [Internet Communications & Security Resources, Steven Gordon][15] - includes book list with links.
@@ -45,3 +49,4 @@ Book List
 [13]: https://sandilands.info/sgordon/teaching/css441y15s2/handouts/css441y15s2l07-public-key-cryptography.pdf
 [14]: https://sandilands.info/sgordon/teaching/css441y15s2/topic-number_theory
 [15]: https://sandilands.info/sgordon/teaching/resources/study
+[16]: https://www.youtube.com/watch?v=kYasb426Yjk
