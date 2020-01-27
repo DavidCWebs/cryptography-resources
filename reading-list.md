@@ -12,7 +12,7 @@ This is a to do list of articles, books & videos.
 * [linux/drivers/char/random.c, Linux kernel][7]
 * [Lecture notes on Public Key Cryptography][8], Steven Gordon
 * [Security Engineering, 3rd edition][9], Ross Anderson
-
+* [Cryptography for the Paranoid][11], PDF slides, Daniel J. Bernstein
 
 [1]: https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/
 [2]: http://crypto.stanford.edu/~dabo/papers/RSA-survey.pdf
@@ -24,3 +24,4 @@ This is a to do list of articles, books & videos.
 [8]: https://sandilands.info/sgordon/teaching/css441y15s2/handouts/css441y15s2l07-public-key-cryptography.pdf
 [9]: https://www.cl.cam.ac.uk/~rja14/book.html
 [10]: https://www.youtube.com/watch?v=kYasb426Yjk
+[11]: https://cr.yp.to/talks/2012.09.24/slides.pdf
