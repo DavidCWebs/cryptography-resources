@@ -7,6 +7,8 @@ Online Courses
 --------------
 * [Stanford Cryptography Course][11], Dan Boneh, hosted on Coursera
 * [Number Theory & Cryptography][12], University of California San Diego & National Research University Higher School of Economics
+* [Online Introduction to Cryptography MCS 494][18], D.J. Bernstein
+
 
 Public Key Cryptography
 -----------------------
@@ -53,3 +55,4 @@ Book/Papers List
 [15]: https://sandilands.info/sgordon/teaching/resources/study
 [16]: https://www.youtube.com/watch?v=kYasb426Yjk
 [17]: https://www.cl.cam.ac.uk/~rja14/
+[18]: https://cr.yp.to/crypto.html
