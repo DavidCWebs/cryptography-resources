@@ -16,6 +16,7 @@ Public Key Cryptography
 
 Number Theory Resources
 -----------------------
+* [Handbook of Applied Cryptography][19] AJ Menezes, PC van Oorschot, SA Vanstone free online resources
 * [FSU Maths Resources][1] on Number Theory
 * [Description of Extended Euclidean Algorithm][2], UC Denver
 * [Extended Euclidean Algorithm][3]
@@ -56,3 +57,4 @@ Book/Papers List
 [16]: https://www.youtube.com/watch?v=kYasb426Yjk
 [17]: https://www.cl.cam.ac.uk/~rja14/
 [18]: https://cr.yp.to/crypto.html
+[19]: http://cacr.uwaterloo.ca/hac/
